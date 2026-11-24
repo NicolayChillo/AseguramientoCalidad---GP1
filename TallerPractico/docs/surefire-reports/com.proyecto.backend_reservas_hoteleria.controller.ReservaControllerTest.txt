@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.proyecto.backend_reservas_hoteleria.controller.ReservaControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.672 s -- in com.proyecto.backend_reservas_hoteleria.controller.ReservaControllerTest
